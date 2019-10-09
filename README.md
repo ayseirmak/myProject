@@ -1,0 +1,2 @@
+/*Bu programda kullanýcýdan aldýðýmýz herjangi bir array içinden yine kullanýcýdan aldýðýmýz deðerin iki katýna ulaþmaya çalýþýyoruz.
+Eðer deðerin iki katý verilen arryde var ise "true" yok ise "false" cevaplarýný veren bir program oluþturmuþ olduk.*/
