@@ -10,19 +10,13 @@ import spark.template.mustache.MustacheTemplateEngine;
 public class App 
 {
    
-    	public static Integer double_search(ArrayList<Integer> array1,ArrayList<Integer> array2,int e,int f) {
+    	public static boolean double_search(ArrayList<Integer> array, int e) {
     		System.out.println("inside double search");
     		if (array == null) return false;
-    		if (array2 == null) return false;
     		for (int elt : array) {
-    		if (elt == 2*e) 
-    			int c1 = e;
+    		if (elt == 2*e) return true;
     		}
-    		for (int elt2 : array2) {
-        		if (elt2 == 2*f) 
-        			int c2 = f;
-        		}
-    		return c1 + c2;
+    		return false;
     		}
 
     
