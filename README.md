@@ -1,4 +1,4 @@
-/*Bu programda kullanıcıdan içinde 0 elemanı bulunmayan 2 farklı integer arrayi ve iki farklı integer değer alıcaz 
-ilk değerin iki katını ilk arrayde bulmaya ikinci değerin iki katını ikinci arryde bulmaya çalışıcaz.İki değerin herhangi birinin bile iki katı var ise program "true" yok ise program "false" dönecek.*/
+/*Bu programda kullanÄ±cÄ±dan iÃ§inde 0 elemanÄ± bulunmayan 2 farklÄ± integer arrayi ve iki farklÄ± integer deÄŸer alÄ±caz 
+ilk deÄŸerin iki katÄ±nÄ± ilk arrayde bulmaya ikinci deÄŸerin iki katÄ±nÄ± ikinci arryde bulmaya Ã§alÄ±ÅŸÄ±caz.Ä°ki deÄŸerin herhangi birinin bile iki katÄ± var ise program "true" yok ise program "false" dÃ¶necek.*/
 [![Build Status](https://travis-ci.org/ayseirmak/myProject.svg?branch=master)](https://travis-ci.org/ayseirmak/myProject)
-Demo site:http://powerful-cove-56452.herokuapp.com/compute
+Demo site:https://boiling-inlet-28293.herokuapp.com/compute
